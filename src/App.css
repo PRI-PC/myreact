@@ -8,6 +8,7 @@ body{
 }
 div{
   background-color: rgb(208, 24, 24);
+  height: 100vh;
   padding-top: 20px;
   padding-bottom: 20px;
   border: 1px solid balck;
