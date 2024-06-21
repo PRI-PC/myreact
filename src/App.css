@@ -7,7 +7,7 @@ body{
   bagground-color:rgb(3, 84, 128);
 }
 div{
-  background-color: rgb(24, 5, 95);
+  background-color: rgb(208, 24, 24);
   padding-top: 20px;
   padding-bottom: 20px;
   border: 1px solid balck;
@@ -17,7 +17,7 @@ div{
 }
 input{
   text-shadow: 0ch;
-  background-color: rgba(0, 98, 255, 0.806);
+  background-color: rgba(91, 145, 210, 0.806);
   padding:10px 35px 10px 35px;
   font-size: 25px;
   border: 5px solid red;
